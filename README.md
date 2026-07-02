@@ -2,7 +2,7 @@
 
 **Full-Stack Developer** at [Script Vortex](https://www.scriptvortex.com/) — building modern web and mobile applications with clean code and thoughtful design.
 
-I'm passionate about turning ideas into scalable products across the **MERN stack**, **React Native**, and **Expo**. Open to collaboration and new opportunities.
+I'm passionate about building full product ecosystems — mobile apps, web platforms, admin panels, and desktop tools — across the **MERN stack**, **React Native**, **Expo**, and **Electron**. Open to collaboration and new opportunities.
 
 ---
 
@@ -22,6 +22,7 @@ I'm passionate about turning ideas into scalable products across the **MERN stac
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 
 **Tools & DevOps**
+![Electron](https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
 ![Vercel](https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
@@ -30,14 +31,31 @@ I'm passionate about turning ideas into scalable products across the **MERN stac
 
 ## 🚀 Featured Projects
 
-| Project | Description | Stack |
-| --- | --- | --- |
-| [**Kickback-Web**](https://github.com/SaudCh/Kickback-Web) | Web application platform | JavaScript |
-| [**MERN-Opexa**](https://github.com/SaudCh/MERN-Opexa) | Full-stack business platform | MERN |
-| [**Expo-Opexa**](https://github.com/SaudCh/Expo-Opexa) | Cross-platform mobile app | React Native · Expo |
-| [**MERN-Hamza-Portfolio**](https://github.com/SaudCh/MERN-Hamza-Portfolio) | Dynamic portfolio with live demo | MERN · [Live](https://mern-hamza-portfolio.vercel.app) |
-| [**Narsun**](https://github.com/SaudCh/Narsun) | TypeScript web application | TypeScript |
-| [**MERN_Ecommerce**](https://github.com/SaudCh/MERN_Ecommerce) | Full-stack e-commerce platform | MERN |
+### [Cafe Expo](https://app.cafeexpo.pt/)
+End-to-end café management platform for ordering, operations, and point-of-sale.
+
+**Platforms:** Client App · Employee App · Web App · Admin Panel · POS (Electron)
+
+---
+
+### [Salsivo](https://app.salsivodanceapp.com/)
+Dance studio platform for class management, bookings, and member engagement.
+
+**Platforms:** Mobile App · Admin Panel · Web App
+
+---
+
+### [KickBack](https://app.httpskickbackguys.com/)
+Full-stack rewards and loyalty platform connecting businesses with their customers.
+
+**Platforms:** Mobile App · Admin Panel · Web App
+
+---
+
+### [MySendTiments](https://mysendtiments.com/)
+Mobile app for sending personalized sentiments and digital greetings.
+
+**Platforms:** Mobile App
 
 ---
 
