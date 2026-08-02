@@ -1,6 +1,6 @@
 # Hi, I'm Saud 👋
 
-**Full-Stack Developer** at [Script Vortex](https://www.scriptvortex.com/) — building modern web and mobile applications with clean code and thoughtful design.
+**Full-Stack Developer** at [Script Vortex](https://saudfullstackdev.com/) — building modern web and mobile applications with clean code and thoughtful design.
 
 I'm passionate about building full product ecosystems — mobile apps, web platforms, admin panels, and desktop tools — across the **MERN stack**, **React Native**, **Expo**, and **Electron**. Open to collaboration and new opportunities.
 
